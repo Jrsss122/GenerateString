@@ -23,9 +23,7 @@
 
 
 
-### 🙄 ᴅᴇᴍᴏ/ᴛᴇsᴛ ʙᴏᴛ
-  
-  [sᴛʀɪɴɢ ʙᴏᴛ 🍑](https://telegram.me/generatestringbot)
+
 
 ```
 Atleast Give A Star and Fork The Repo 🖤
