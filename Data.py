@@ -8,8 +8,8 @@ class Data:
 
     buttons = [
         generate_single_button,
-        [InlineKeyboardButton("❣️ sᴜᴩᴩᴏʀᴛ ❣️", url="https://t.me/RioGroupsupport"),
-         InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url="https://t.me/fckualot"),
+        [InlineKeyboardButton(" sᴜᴩᴩᴏʀᴛ ", url="https://t.me/Mutualanrelaxed"),
+         InlineKeyboardButton(" ᴅᴇᴠᴇʟᴏᴩᴇʀ ", url="https://t.me/Jrsss777"),
         ],
     ]
 
@@ -17,6 +17,6 @@ class Data:
 Hᴇʏ {},
 Tʜɪs ɪs {},
 Aɴ ᴏᴩᴇɴ sᴏᴜʀᴄᴇᴅ sᴛʀɪɴɢ sᴇssɪᴏɴ ɢᴇɴᴇʀᴀᴛᴏʀ ʙᴏᴛ, ᴡʀɪᴛᴛᴇɴ ɪɴ ᴩʏᴛʜᴏɴ ᴡɪᴛʜ ᴛʜᴇ ʜᴇʟᴩ ᴏғ ᴩʏʀᴏɢʀᴀᴍ.
-Sᴏᴜʀᴄᴇ : [ɢɪᴛʜᴜʙ](https://github.com/rioprojectx/GenerateString)
-Mᴀᴅᴇ ᴡɪᴛʜ 🖤 ʙʏ : [Rio](https://t.me/fckualot) !
+Sᴏᴜʀᴄᴇ 😱 : [ɢɪᴛʜᴜʙ](https://github.com/ELDRAZI-17/FEUR)
+Mᴀᴅᴇ ᴡɪᴛʜ 😘 ʙʏ : [ᴊᴀʀsss](https://t.me/Jrsss777) !
     """
